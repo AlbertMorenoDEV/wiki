@@ -4,4 +4,5 @@
 * [Golang](golang.md)
 * [DDD](ddd.md)
 * [PHP](php.md)
+* [Podcast](podcast.md)
 
